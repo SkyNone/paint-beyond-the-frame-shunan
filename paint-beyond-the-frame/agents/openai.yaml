@@ -1,14 +1,13 @@
 interface:
-  display_name: 镜外生境
-  short_description: 完整保留真实照片，并向画框之外延伸同境的彩色想象世界
-  default_prompt: Use $paint-beyond-the-frame to preserve this photo and extend beyond
-    its frame into a softly colored imagined scene from the same world.
-  icon_small: assets/icon.svg
-  icon_large: assets/icon.svg
+  display_name: "镜外生境"
+  short_description: "让摄影自然延伸到纸面，以人数多变的彩色小人讲一个微小故事"
+  default_prompt: "Use $paint-beyond-the-frame to extend this photo into airy paper with a small colorful illustrated story."
+  icon_small: "assets/icon.svg"
+  icon_large: "assets/icon.svg"
 policy:
   products:
-  - chatgpt
-  - codex
-  - api
-  - atlas
+    - "chatgpt"
+    - "codex"
+    - "api"
+    - "atlas"
   allow_implicit_invocation: true
