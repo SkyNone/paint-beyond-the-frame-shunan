@@ -6,6 +6,66 @@
 
 [打开 ChatGPT Skill](https://chatgpt.com/skills?skill_id=6a75a66a78fc8191b62db93546bdabc0) · [查看精简 Skill](./paint-beyond-the-frame/SKILL.md)
 
+## 最新效果示例
+
+以下 7 组由真实照片生成，展示景物如何延伸到纸面，并承接不同的小故事。点击图片可查看大图。
+
+### 收集金光
+
+把楼宇上的夕阳装进小罐。
+
+| 原照片 | 镜外生境 |
+| --- | --- |
+| ![收集金光原照片](./docs/images/collect-light-original.jpg) | ![收集金光生成作品](./docs/images/collect-light-result.jpg) |
+
+### 屋顶看云
+
+坐在延伸的屋檐上，等晚霞经过。
+
+| 原照片 | 镜外生境 |
+| --- | --- |
+| ![屋顶看云原照片](./docs/images/rooftop-clouds-original.jpg) | ![屋顶看云生成作品](./docs/images/rooftop-clouds-result.jpg) |
+
+### 接住晚霞
+
+合力接住飘出画面的橙红云絮。
+
+| 原照片 | 镜外生境 |
+| --- | --- |
+| ![接住晚霞原照片](./docs/images/catch-sunset-original.jpg) | ![接住晚霞生成作品](./docs/images/catch-sunset-result.jpg) |
+
+### 草坡野餐
+
+在山坡尽头铺开一块小餐布。
+
+| 原照片 | 镜外生境 |
+| --- | --- |
+| ![草坡野餐原照片](./docs/images/meadow-picnic-original.jpg) | ![草坡野餐生成作品](./docs/images/meadow-picnic-result.jpg) |
+
+### 叶子秋千
+
+借一根树枝，荡进留白。
+
+| 原照片 | 镜外生境 |
+| --- | --- |
+| ![叶子秋千原照片](./docs/images/leaf-swing-original.jpg) | ![叶子秋千生成作品](./docs/images/leaf-swing-result.jpg) |
+
+### 长草滑梯
+
+顺着风，让草叶变成小滑梯。
+
+| 原照片 | 镜外生境 |
+| --- | --- |
+| ![长草滑梯原照片](./docs/images/grass-slide-original.jpg) | ![长草滑梯生成作品](./docs/images/grass-slide-result.jpg) |
+
+### 山路歇脚
+
+在盘山公路旁停下，望一会儿远山。
+
+| 原照片 | 镜外生境 |
+| --- | --- |
+| ![山路歇脚原照片](./docs/images/mountain-road-original.jpg) | ![山路歇脚生成作品](./docs/images/mountain-road-result.jpg) |
+
 ## 线下快速体验
 
 1. 选一张自己的风景、植物、街景或日常照片。
